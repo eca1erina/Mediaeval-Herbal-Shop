@@ -5,8 +5,11 @@ Medieval Herbal Shop is a Java-based console application simulating a whimsical 
 # Features
 
 Interactive Role-play: Users introduce themselves and specify their role (e.g., knight, merchant, farmer) to personalize the experience.
+
 Potion Selection Menu:
 Remedies for specific ailments like colds or the black plague.
 Elixirs for immortality or eternal youth.
+
 Sorted Herb Listings: Remedies and elixirs are displayed sorted by price to guide informed decisions.
+
 Input Flexibility: Users can select their options via console inputs and view tailored herbal solutions.
